@@ -1,0 +1,6 @@
+# Copy to local.properties (git-ignored). sdk.dir is written by Android Studio automatically.
+# sdk.dir=/path/to/Android/Sdk
+
+# OPTIONAL, personal debug builds only. Never commit a real key and never publish an APK containing one.
+# You can instead paste the key inside the app: Parent area > Data & privacy.
+YOUTUBE_API_KEY=
